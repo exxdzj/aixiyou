@@ -39,6 +39,7 @@ mybatis-plus:
   mapper-locations: classpath*:com/exx/dzj/mapper/**/*Mapper.xml
   table-prefix: tab_
 
+
 # 阿里云存储配置
 aliyun:
   endpoint: http://oss-cn-shenzhen.aliyuncs.com

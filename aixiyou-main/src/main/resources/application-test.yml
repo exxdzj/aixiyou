@@ -1,7 +1,7 @@
 spring:
     datasource:
         name: dzj
-        url: jdbc:mysql://192.168.5.131:3306/test-erp?useUnicode=true&amp;characterEncoding=UTF-8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&useSSL=false&rewriteBatchedStatements=true
+        url: jdbc:mysql://192.168.5.131:3306/aixiyou?useUnicode=true&amp;characterEncoding=UTF-8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&useSSL=false&rewriteBatchedStatements=true
         username: dzjerp
         password: dzj_EXX88
         # \u4F7F\u7528druid\u6570\u636E\u6E90
@@ -57,6 +57,6 @@ aliyun:
   endpoint: http://oss-cn-shenzhen.aliyuncs.com
   accessKeyId: LTAI24Fekt4cpDoy
   accessKeySecret: iw4Yp42IqB5wh461RITJJexpCaFhJw
-  bucketName: exx-erp
+  bucketName: exx-aixiyou
   subdir: producet-images
   active: test
